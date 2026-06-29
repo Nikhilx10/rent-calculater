@@ -10,6 +10,8 @@ Whether it's rent, food expenses, or electricity bills, this calculator quickly 
 - Split the total amount equally among all roommates
 - Simple and beginner-friendly Python project
 
+model link-https://rent-calculater-cc92srcsvdvzce2xxpdigl.streamlit.app/
+
 ##  Built With
 - Python 3
 
